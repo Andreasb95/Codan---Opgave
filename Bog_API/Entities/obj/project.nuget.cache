@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+dhQ5fhBjy2sgNkBN9axXXHqupzOXhHuhnQfVrCU6psMvhWe32LOKLbJEVwBCjoQMjCrg5F+Y49qwdBYw9XBAQ==",
+  "dgSpecHash": "2Xp2Vw1MsY2Syrf2k/ydciFG3+NgubnGbPikyEPEw1RsVUB1VqYRsKyR8Wp2ICR/bDG8/j+6qCq5NHuGSB4oHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

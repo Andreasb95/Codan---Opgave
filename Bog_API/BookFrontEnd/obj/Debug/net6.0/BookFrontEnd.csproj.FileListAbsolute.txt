@@ -28,3 +28,33 @@ C:\Users\Andreas\source\Udvikler test\Bog_API\BookFrontEnd\obj\Debug\net6.0\Book
 C:\Users\Andreas\source\Udvikler test\Bog_API\BookFrontEnd\obj\Debug\net6.0\ref\BookFrontEnd.dll
 C:\Users\Andreas\source\Udvikler test\Bog_API\BookFrontEnd\obj\Debug\net6.0\BookFrontEnd.pdb
 C:\Users\Andreas\source\Udvikler test\Bog_API\BookFrontEnd\obj\Debug\net6.0\BookFrontEnd.genruntimeconfig.cache
+C:\Users\Andreas\Documents\GitHub\Codan---Opgave\Bog_API\BookFrontEnd\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Andreas\Documents\GitHub\Codan---Opgave\Bog_API\BookFrontEnd\bin\Debug\net6.0\appsettings.json
+C:\Users\Andreas\Documents\GitHub\Codan---Opgave\Bog_API\BookFrontEnd\bin\Debug\net6.0\BookFrontEnd.staticwebassets.runtime.json
+C:\Users\Andreas\Documents\GitHub\Codan---Opgave\Bog_API\BookFrontEnd\bin\Debug\net6.0\BookFrontEnd.exe
+C:\Users\Andreas\Documents\GitHub\Codan---Opgave\Bog_API\BookFrontEnd\bin\Debug\net6.0\BookFrontEnd.deps.json
+C:\Users\Andreas\Documents\GitHub\Codan---Opgave\Bog_API\BookFrontEnd\bin\Debug\net6.0\BookFrontEnd.runtimeconfig.json
+C:\Users\Andreas\Documents\GitHub\Codan---Opgave\Bog_API\BookFrontEnd\bin\Debug\net6.0\BookFrontEnd.dll
+C:\Users\Andreas\Documents\GitHub\Codan---Opgave\Bog_API\BookFrontEnd\bin\Debug\net6.0\ref\BookFrontEnd.dll
+C:\Users\Andreas\Documents\GitHub\Codan---Opgave\Bog_API\BookFrontEnd\bin\Debug\net6.0\BookFrontEnd.pdb
+C:\Users\Andreas\Documents\GitHub\Codan---Opgave\Bog_API\BookFrontEnd\bin\Debug\net6.0\Entities.dll
+C:\Users\Andreas\Documents\GitHub\Codan---Opgave\Bog_API\BookFrontEnd\bin\Debug\net6.0\Entities.pdb
+C:\Users\Andreas\Documents\GitHub\Codan---Opgave\Bog_API\BookFrontEnd\obj\Debug\net6.0\BookFrontEnd.csproj.AssemblyReference.cache
+C:\Users\Andreas\Documents\GitHub\Codan---Opgave\Bog_API\BookFrontEnd\obj\Debug\net6.0\BookFrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andreas\Documents\GitHub\Codan---Opgave\Bog_API\BookFrontEnd\obj\Debug\net6.0\BookFrontEnd.AssemblyInfoInputs.cache
+C:\Users\Andreas\Documents\GitHub\Codan---Opgave\Bog_API\BookFrontEnd\obj\Debug\net6.0\BookFrontEnd.AssemblyInfo.cs
+C:\Users\Andreas\Documents\GitHub\Codan---Opgave\Bog_API\BookFrontEnd\obj\Debug\net6.0\BookFrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\Andreas\Documents\GitHub\Codan---Opgave\Bog_API\BookFrontEnd\obj\Debug\net6.0\BookFrontEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andreas\Documents\GitHub\Codan---Opgave\Bog_API\BookFrontEnd\obj\Debug\net6.0\BookFrontEnd.RazorAssemblyInfo.cache
+C:\Users\Andreas\Documents\GitHub\Codan---Opgave\Bog_API\BookFrontEnd\obj\Debug\net6.0\BookFrontEnd.RazorAssemblyInfo.cs
+C:\Users\Andreas\Documents\GitHub\Codan---Opgave\Bog_API\BookFrontEnd\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Andreas\Documents\GitHub\Codan---Opgave\Bog_API\BookFrontEnd\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Andreas\Documents\GitHub\Codan---Opgave\Bog_API\BookFrontEnd\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Andreas\Documents\GitHub\Codan---Opgave\Bog_API\BookFrontEnd\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Andreas\Documents\GitHub\Codan---Opgave\Bog_API\BookFrontEnd\obj\Debug\net6.0\scopedcss\bundle\BookFrontEnd.styles.css
+C:\Users\Andreas\Documents\GitHub\Codan---Opgave\Bog_API\BookFrontEnd\obj\Debug\net6.0\scopedcss\projectbundle\BookFrontEnd.bundle.scp.css
+C:\Users\Andreas\Documents\GitHub\Codan---Opgave\Bog_API\BookFrontEnd\obj\Debug\net6.0\BookFrontEnd.csproj.CopyComplete
+C:\Users\Andreas\Documents\GitHub\Codan---Opgave\Bog_API\BookFrontEnd\obj\Debug\net6.0\BookFrontEnd.dll
+C:\Users\Andreas\Documents\GitHub\Codan---Opgave\Bog_API\BookFrontEnd\obj\Debug\net6.0\ref\BookFrontEnd.dll
+C:\Users\Andreas\Documents\GitHub\Codan---Opgave\Bog_API\BookFrontEnd\obj\Debug\net6.0\BookFrontEnd.pdb
+C:\Users\Andreas\Documents\GitHub\Codan---Opgave\Bog_API\BookFrontEnd\obj\Debug\net6.0\BookFrontEnd.genruntimeconfig.cache

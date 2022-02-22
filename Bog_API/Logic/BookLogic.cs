@@ -11,7 +11,7 @@ namespace Logic
 {
     public class BookLogic : IBookLogic
     {
-        private readonly string booksXML = "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\Logic\\BookData\\books.xml";
+        private readonly string booksXML = @"C:\Users\Andreas\Documents\GitHub\Codan---Opgave\Bog_API\Logic\BookData\books.xml";
         private readonly IXMLReader _xmlReader;
 
         public BookLogic(IXMLReader xmlReader)
@@ -38,14 +38,18 @@ namespace Logic
             var list = new List<Book>();
 
             var doc = _xmlReader.LoadXDocument(booksXML);
-            foreach (XElement element in doc.Descendants("catalog").Descendants("book").Where(b => b.Value.Contains(title)))
+            foreach (XElement element in doc.Descendants("catalog").Descendants("book").Where(b => b.Element("title").Value.Contains(title)))
             {
                 list.Add(ConvertXMLBookToBookEntity(element));
             }
 
             return list;
         }
-        
+
+
+
+       
+
 
         //Convert XML values to C# Book Entity
         private Book ConvertXMLBookToBookEntity(XElement xElement)

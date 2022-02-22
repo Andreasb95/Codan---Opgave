@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RVYiT4eOZdWsw3uKrplpYqDOJDn/r3lFYFZ3qQn8+SM=",
+  "Hash": "SUq0znF5bjkV+dXiq9r6MUK5bwUP2sKxohxcFMjpLNc=",
   "Source": "BookFrontEnd",
   "BasePath": "_content/BookFrontEnd",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BookFrontEnd\\wwwroot",
       "Source": "BookFrontEnd",
-      "ContentRoot": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\BookFrontEnd\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\BookFrontEnd\\wwwroot\\",
       "BasePath": "_content/BookFrontEnd",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\BookFrontEnd\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BookFrontEnd.styles.css",
+      "Identity": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\BookFrontEnd\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BookFrontEnd.styles.css",
       "SourceId": "BookFrontEnd",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\BookFrontEnd\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\BookFrontEnd\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BookFrontEnd",
       "RelativePath": "BookFrontEnd.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\BookFrontEnd\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BookFrontEnd.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\BookFrontEnd\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BookFrontEnd.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\BookFrontEnd\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BookFrontEnd.bundle.scp.css",
+      "Identity": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\BookFrontEnd\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BookFrontEnd.bundle.scp.css",
       "SourceId": "BookFrontEnd",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\BookFrontEnd\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\BookFrontEnd\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BookFrontEnd",
       "RelativePath": "BookFrontEnd.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\BookFrontEnd\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BookFrontEnd.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\BookFrontEnd\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BookFrontEnd.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\BookFrontEnd\\wwwroot\\Codan-Logo.png",
+      "Identity": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\BookFrontEnd\\wwwroot\\Codan-Logo.png",
       "SourceId": "BookFrontEnd",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\BookFrontEnd\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\BookFrontEnd\\wwwroot\\",
       "BasePath": "_content/BookFrontEnd",
       "RelativePath": "Codan-Logo.png",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\Codan-Logo.png"
     },
     {
-      "Identity": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\BookFrontEnd\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\BookFrontEnd\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "BookFrontEnd",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\BookFrontEnd\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\BookFrontEnd\\wwwroot\\",
       "BasePath": "_content/BookFrontEnd",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\BookFrontEnd\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\BookFrontEnd\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BookFrontEnd",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\BookFrontEnd\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\BookFrontEnd\\wwwroot\\",
       "BasePath": "_content/BookFrontEnd",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\BookFrontEnd\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\BookFrontEnd\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "BookFrontEnd",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\BookFrontEnd\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\BookFrontEnd\\wwwroot\\",
       "BasePath": "_content/BookFrontEnd",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\BookFrontEnd\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\BookFrontEnd\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "BookFrontEnd",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\BookFrontEnd\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\BookFrontEnd\\wwwroot\\",
       "BasePath": "_content/BookFrontEnd",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\BookFrontEnd\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\BookFrontEnd\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "BookFrontEnd",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\BookFrontEnd\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\BookFrontEnd\\wwwroot\\",
       "BasePath": "_content/BookFrontEnd",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\BookFrontEnd\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\BookFrontEnd\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "BookFrontEnd",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\BookFrontEnd\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\BookFrontEnd\\wwwroot\\",
       "BasePath": "_content/BookFrontEnd",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\BookFrontEnd\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\BookFrontEnd\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "BookFrontEnd",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\BookFrontEnd\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\BookFrontEnd\\wwwroot\\",
       "BasePath": "_content/BookFrontEnd",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\BookFrontEnd\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\BookFrontEnd\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "BookFrontEnd",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\BookFrontEnd\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\BookFrontEnd\\wwwroot\\",
       "BasePath": "_content/BookFrontEnd",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\BookFrontEnd\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\BookFrontEnd\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "BookFrontEnd",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\BookFrontEnd\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\BookFrontEnd\\wwwroot\\",
       "BasePath": "_content/BookFrontEnd",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\BookFrontEnd\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\BookFrontEnd\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "BookFrontEnd",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\BookFrontEnd\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\BookFrontEnd\\wwwroot\\",
       "BasePath": "_content/BookFrontEnd",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\BookFrontEnd\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\BookFrontEnd\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "BookFrontEnd",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\BookFrontEnd\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\BookFrontEnd\\wwwroot\\",
       "BasePath": "_content/BookFrontEnd",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\BookFrontEnd\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\BookFrontEnd\\wwwroot\\css\\site.css",
       "SourceId": "BookFrontEnd",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\BookFrontEnd\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\BookFrontEnd\\wwwroot\\",
       "BasePath": "_content/BookFrontEnd",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\BookFrontEnd\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\BookFrontEnd\\wwwroot\\favicon.ico",
       "SourceId": "BookFrontEnd",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\BookFrontEnd\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\BookFrontEnd\\wwwroot\\",
       "BasePath": "_content/BookFrontEnd",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",

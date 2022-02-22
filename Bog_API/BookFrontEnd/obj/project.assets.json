@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\BookFrontEnd\\BookFrontEnd.csproj",
+      "projectUniqueName": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\BookFrontEnd\\BookFrontEnd.csproj",
       "projectName": "BookFrontEnd",
-      "projectPath": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\BookFrontEnd\\BookFrontEnd.csproj",
+      "projectPath": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\BookFrontEnd\\BookFrontEnd.csproj",
       "packagesPath": "C:\\Users\\Andreas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\BookFrontEnd\\obj\\",
+      "outputPath": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\BookFrontEnd\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,8 +59,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Andreas\\source\\Udvikler test\\Bog_API\\Entities\\Entities.csproj"
+            "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Andreas\\Documents\\GitHub\\Codan---Opgave\\Bog_API\\Entities\\Entities.csproj"
             }
           }
         }
