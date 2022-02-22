@@ -1,0 +1,107 @@
+﻿@page "/findbook"
+
+<PageTitle>Find Books</PageTitle>
+
+@using BookFrontEnd.Interfaces
+@using Entities.Entities
+@using Microsoft.AspNetCore.Mvc.Diagnostics
+@inject IBookService _bookService
+
+<h1>Find books by inserting title</h1>
+
+<p>
+    <input @bind="inputTitle" />
+    <button @onclick="GetBooksByTitle">Search</button>
+</p>
+
+@if (books == null)
+{
+    <p>Insert title</p>
+}
+
+else
+{
+    @if (books.Count == 0)
+    {
+        <p>No books was found with the given title.... try again</p>
+    }
+
+    else
+    {
+        <div class="element">
+            <div class="card-header">
+                <h1>Search Results</h1>
+            </div>
+
+
+            <div class="card">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Title</th>
+                            <th>Author</th>
+                            <th>Genre</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var book in books)
+                        {
+                            <tr>
+                                <td>@book.Title</td>
+                                <td>@book.Author</td>
+                                <td>@book.Genre</td>
+                                <button @onclick="() => SelectBook(book)">View Details</button>
+                            </tr>
+
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    }
+
+
+    @if (Selectedbook != null)
+    {
+
+        <div class="card" style="width: 18rem;">
+            <div class="card-header">Details</div>
+            <div class="card-body">
+                <h5 class="card-title">Title:</h5>
+                <p>@Selectedbook.Title</p>
+                <h5 class="card-title">Author:</h5>
+                <p>@Selectedbook.Author</p>
+                <h5 class="card-title">Genre:</h5>
+                <p>@Selectedbook.Genre</p>
+                <h5 class="card-title">Price:</h5>
+                <p>@Selectedbook.Price</p>
+                <h5 class="card-title">Publish Date:</h5>
+                <p>@Selectedbook.Publish_Date.ToShortDateString()</p>
+                <h5 class="card-title">Description:</h5>
+                <p>@Selectedbook.Description</p>
+
+            </div>
+        </div>
+
+
+    }
+}
+
+@code {
+
+    private string inputTitle;
+    private IList<Book> books;
+    private Book Selectedbook { get; set; }
+
+    private async void GetBooksByTitle()
+    {
+        books = await _bookService.GetAllBooksByTitle(inputTitle);
+        StateHasChanged();
+    }
+
+    private void SelectBook(Book book)
+    {
+        Selectedbook = book;
+    }
+}

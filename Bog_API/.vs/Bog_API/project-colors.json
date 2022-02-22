@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "43399a71-314c-4710-811b-5b0bc5d715e4": {
+      "ProjectGuid": "43399a71-314c-4710-811b-5b0bc5d715e4",
+      "DisplayName": "Bog_API",
+      "ColorIndex": 0
+    },
+    "3ac5f158-ede6-4b7c-bb38-9df007bd8ab4": {
+      "ProjectGuid": "3ac5f158-ede6-4b7c-bb38-9df007bd8ab4",
+      "DisplayName": "Entities",
+      "ColorIndex": 1
+    },
+    "120eb721-5355-401f-84f8-4f3a316c3232": {
+      "ProjectGuid": "120eb721-5355-401f-84f8-4f3a316c3232",
+      "DisplayName": "Logic",
+      "ColorIndex": 2
+    },
+    "ff82a400-1e41-4107-85ed-c402256f26b8": {
+      "ProjectGuid": "ff82a400-1e41-4107-85ed-c402256f26b8",
+      "DisplayName": "BookFrontEnd",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,59 @@
+﻿@page "/"
+@page "/allBooks"
+
+<PageTitle>Book Overview</PageTitle>
+
+@using BookFrontEnd.Interfaces
+@using Entities.Entities
+@inject IBookService _bookService
+
+<h1>List of all Books</h1>
+
+
+@if (books == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+
+    <table class="table table-bordered">
+        <thead>
+
+        <tr>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Genre</th>
+            <th>Price</th>
+            <th>Publish_Date</th>
+            <th>Description</th>
+            
+        </tr>
+        </thead>
+        <tbody>
+            @foreach (var book in books)
+            {
+                <tr>
+                    <td>@book.Title</td>
+                    <td>@book.Author</td>
+                    <td>@book.Genre</td>
+                    <td>@book.Price</td>
+                    <td>@book.Publish_Date.ToShortDateString()</td>
+                    <td>@book.Description</td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+}
+
+@code {
+    
+    
+    private IList<Book> books;
+
+    protected override async Task OnInitializedAsync()
+    {
+        books = await _bookService.GetAllBooks();
+    }
+}
